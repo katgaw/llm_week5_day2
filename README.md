@@ -6,3 +6,5 @@
 ## <h1 align="center" id="heading">LangSmith and Advanced Retrieval</h1>
 
 All about how to use LangSmith...
+
+For more  great code from AI Makerspace see https://github.com/AI-Maker-Space
